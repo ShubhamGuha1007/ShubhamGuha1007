@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Guha</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src= "https://s13.gifyu.com/images/b2mkv.gif">
+<img align="right" alt="coding" width="400" src= "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ1MmsyNG10cXBobzVmNmZibmltaTc5d20ybDdydWszNXI2dXo3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dfaCRe7IORr3fh9Noo/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamguha1007&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamguha1007" /> </p>
 
 - 🔭 I’m currently working on **Cognizant**
